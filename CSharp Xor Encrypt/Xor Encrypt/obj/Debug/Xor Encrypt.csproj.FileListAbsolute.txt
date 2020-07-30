@@ -1,0 +1,10 @@
+C:\Users\whix1\source\repos\Xor Encrypt\Xor Encrypt\bin\Debug\Xor Encrypt.exe.config
+C:\Users\whix1\source\repos\Xor Encrypt\Xor Encrypt\bin\Debug\Xor Encrypt.exe
+C:\Users\whix1\source\repos\Xor Encrypt\Xor Encrypt\bin\Debug\Xor Encrypt.pdb
+C:\Users\whix1\source\repos\Xor Encrypt\Xor Encrypt\obj\Debug\Xor Encrypt.csprojAssemblyReference.cache
+C:\Users\whix1\source\repos\Xor Encrypt\Xor Encrypt\obj\Debug\Xor_Encrypt.Form1.resources
+C:\Users\whix1\source\repos\Xor Encrypt\Xor Encrypt\obj\Debug\Xor_Encrypt.Properties.Resources.resources
+C:\Users\whix1\source\repos\Xor Encrypt\Xor Encrypt\obj\Debug\Xor Encrypt.csproj.GenerateResource.cache
+C:\Users\whix1\source\repos\Xor Encrypt\Xor Encrypt\obj\Debug\Xor Encrypt.csproj.CoreCompileInputs.cache
+C:\Users\whix1\source\repos\Xor Encrypt\Xor Encrypt\obj\Debug\Xor Encrypt.exe
+C:\Users\whix1\source\repos\Xor Encrypt\Xor Encrypt\obj\Debug\Xor Encrypt.pdb
